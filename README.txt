@@ -1,0 +1,1 @@
+Voici mon résumé du projet effectué en perl en première année de master.Le script est écrit en perl et deux autres fichiers sont utilisés dans ce projet. Il s'agit d'un tableau et et d'un fichier fasta.
